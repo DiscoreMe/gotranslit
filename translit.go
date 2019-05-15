@@ -1,4 +1,4 @@
-package translit
+package gotranslit
 
 import (
 	"strings"
